@@ -1,0 +1,9 @@
+/home/vili/Documents/projects/test2/build/Debug/CMakeFiles/test2.dir
+/home/vili/Documents/projects/test2/build/Debug/CMakeFiles/edit_cache.dir
+/home/vili/Documents/projects/test2/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/FatFs.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/USB_Host_Library.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/vili/Documents/projects/test2/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
